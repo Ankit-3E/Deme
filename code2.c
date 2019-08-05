@@ -7,6 +7,5 @@ int main()
  cout<<"Its on ubuntu\n";
 
   cout<<"I am online \n";
-  cout<<"Edited it in github";
-
+  cout<<"Edited i
 }
